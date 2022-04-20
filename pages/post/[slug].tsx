@@ -27,10 +27,8 @@ function PostPage({ post }: Props) {
       method: 'POST',
       body: JSON.stringify(data)
     }).then(() => {
-      console.log(data)
       setSubmitted(true);
     }).catch((error) => {
-      console.log(error)
       setSubmitted(false);
     });
   };
@@ -38,7 +36,7 @@ function PostPage({ post }: Props) {
   return (
     <main>
       <Head>
-        <title>Avarege Blog | {post.title}</title>
+        <title>Average Blog | {post.title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header whiteBg />
