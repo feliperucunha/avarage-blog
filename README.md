@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was developed with the help of Sonny Sangha and then improved by me. It has basic functionalities as shown below in the Usage section, but I'm working hard to improve it even further. Many things have been improved and there are many more to come.
+As you might have noticed, this is a Medium Clone Blog, but it has the core functionalities only, like accessing posts and commenting, but I'm working hard to improve it even further. Many things have been improved and there are many more to come. The Admin with the Sanity account can write posts with rich text, images and also approve comments on the posts. I have to thank Sonny Sangha for helping me to start developing this project from the ground up. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,6 +80,8 @@ This section should list any major frameworks/libraries used to build this proje
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Sanity CMS](https://sanity.io/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [React Hook Form](https://react-hook-form.com/)
+* [React Portable Text](https://www.sanity.io/plugins/react-portable-text)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
