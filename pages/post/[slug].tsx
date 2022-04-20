@@ -41,7 +41,7 @@ function PostPage({ post }: Props) {
         <title>Avarege Blog | {post.title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
+      <Header whiteBg />
 
       <img
         className='w-full h-40 object-cover'
