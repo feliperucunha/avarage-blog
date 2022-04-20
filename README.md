@@ -117,6 +117,14 @@ First of all you need the package manager NPM, to install it use the command bel
    NEXT_PUBLIC_SANITY_PROJECT_ID = 'ENTER YOUR API'
    SANITY_API_TOKEN = 'ENTER YOUR API'
    ```
+5. Run the Frontend
+```sh
+npm run dev
+```
+6. Run Sanity
+```sh
+/sanityStudio sanity start
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -238,6 +246,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [instagram]: https://www.instagram.com/feliperubeen
 [linkedin]: https://www.linkedin.com/in/feliperubencunha/
 
-
-sanity folder -> sanity build: para deploy
-sanity folder -> sanity login -> sanity start: rodar local
