@@ -27,6 +27,7 @@ export default function Home({ posts }: Props) {
           <h2 className='text-xl'>
             Discover stories, thinking, and expertise <br /> from writers on any topic.
           </h2>
+          <h3 className='text-white border w-48 text-center px-3 py-2 rounded-full border-black bg-black'>Start Reading</h3>
         </div>
         <img className='hidden md:inline-flex h-32 lg:h-full' src="/images/m.png" alt="m logo" />
       </div>
